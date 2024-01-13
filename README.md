@@ -64,3 +64,16 @@ test method: It predict the personality of a person by passing an array of value
 >It converts various strings and numbers into desired format and converts lists and tuples in string. 
 
 
+Follow these steps to set up a virtual environment and install project dependencies:
+
+1. **Create a Virtual Environment:**
+   ```bash
+   python -m venv .venv
+ 
+2. **run the below command to activate the environment**
+   ```bash
+   .venv\Scripts\activate
+
+4. **Install Project Dependencies:**
+    ```bash
+    pip install -r requirements.txt
