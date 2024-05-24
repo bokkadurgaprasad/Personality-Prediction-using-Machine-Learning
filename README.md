@@ -1,5 +1,5 @@
 
-# Personality-Prediction-Through-CV
+# Personality-Prediction-Using-Machine-Learning
 A system that predict the personality of a person with OCEAN values and resume.
 
 ## Objectives
